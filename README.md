@@ -9,6 +9,9 @@
  
 ### My Tech Stack
 
+![Java](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=java&logoColor=black)
+![Spring](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=java&logoColor=black)
+
 ![PHP](https://img.shields.io/badge/-PHP-007396?style=flat-square&logo=php&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel&logoColor=red)
 
@@ -29,7 +32,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Database
-![PostgreSQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=ffffff)
 <!-- ![Oracle Database](https://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff) -->
 
@@ -39,7 +42,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
-<!-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff) -->
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff) 
 
 ![PHP Storm ](https://img.shields.io/badge/-PHPStorm-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
