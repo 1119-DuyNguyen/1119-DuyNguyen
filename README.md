@@ -9,8 +9,8 @@
  
 ### My Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=black)
-![Spring](https://img.shields.io/badge/-Spring-white?style=flat-square&logo=spring&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-white?style=flat-square&logo=spring&logoColor=green)
 
 ![PHP](https://img.shields.io/badge/-PHP-007396?style=flat-square&logo=php&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel&logoColor=red)
